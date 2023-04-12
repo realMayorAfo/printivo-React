@@ -1,0 +1,51 @@
+#spancolor{
+  color: rgb(9, 146, 238);
+}
+#para{
+  display: inline;
+}
+#insideNav{
+  text-decoration-style: none;
+  padding: 10px;
+  display: block;
+}
+#generalTag{
+  margin: 15px;
+}
+.card{
+  height: 500px;
+  width: 350px;
+  margin: 30px;
+  
+}
+#card{
+  background-color: rgb(214, 244, 252);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#cardHead{
+  padding-top: 50px;
+  padding-left: 10px;
+
+}
+
+/* #nav{
+
+} */
+#mainbody{
+  background-color: rgb(236,232,217);
+  width: auto;
+  padding-top: 150px;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color:rgb(236,232,217) ;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: rgb(236,232,217);
+  }
+}
