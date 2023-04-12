@@ -34,7 +34,7 @@ const Contentbody = () => {
     <p ><h5 id='para'>₦8,855</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Two-sided Bus... ></button>
+    <button href="#"  className='btn btn-danger'>Browse Two-sided Bus... </button>
   </div>
 </div> 
 
@@ -46,7 +46,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦15,000</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse A5 flayers (S... ></button>
+    <button href="#"  className='btn btn-danger'>Browse A5 flayers (S...)</button>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦9,900</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Rounded Sticke.. ></button>
+    <button href="#"  className='btn btn-danger'>Browse Rounded Sticke.. </button>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦2,750</h5><span> per 1</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Simple Mugs ></button>
+    <button href="#"  className='btn btn-danger'>Simple Mugs</button>
   </div>
 </div>
 
@@ -82,7 +82,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦12,903</h5><span> per 50</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Post Cards (A... ></button>
+    <button href="#"  className='btn btn-danger'>Post Cards A... </button>
   </div>
 </div>
 
@@ -94,7 +94,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦32,000</h5><span> per 1</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Roll Up Ban... ></button>
+    <button href="#"  className='btn btn-danger'>Browse Roll Up Ban...</button>
   </div>
 </div>
 
@@ -106,7 +106,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦41,400</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>A2 Posters ></button>
+    <button href="#"  className='btn btn-danger'>A2 Posters</button>
   </div>
 </div>
 
@@ -118,7 +118,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦27,600</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Trifold Broc... ></button>
+    <button href="#"  className='btn btn-danger'>Browse Trifold Broc...</button>
   </div>
 </div>
 
@@ -130,7 +130,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦1,800</h5><span> per 1</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Landscape ID... ></button>
+    <button href="#"  className='btn btn-danger'>Landscape ID...</button>
   </div>
 </div>
 
@@ -142,7 +142,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦3,499</h5><span> per 1</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Off White T... ></button>
+    <button href="#"  className='btn btn-danger'>Browse Off White T...</button>
   </div>
 </div>
 
@@ -154,7 +154,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦60,950</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse A4 Branded P... ></button>
+    <button href="#"  className='btn btn-danger'>Browse A4 Branded P...</button>
   </div>
 </div>
 
@@ -166,7 +166,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦16,000</h5><span> per 100</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse A4 Courier B... ></button>
+    <button href="#"  className='btn btn-danger'>Browse A4 Courier B...</button>
   </div>
 </div>
 </div>
@@ -186,7 +186,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦17,250</h5><span> per 50</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Greeting Car... ></button>
+    <button href="#"  className='btn btn-danger'>Browse Greeting Car...</button>
   </div>
 </div>
 <div className="card" style={{width: 250}} >
@@ -197,7 +197,7 @@ const Contentbody = () => {
     <p><h5 id='para'>₦4,949</h5><span> per 75</span></p>
   </div>
   <div className="card-body">
-    <button href="#"  className='btn btn-danger'>Browse Stickers ></button>
+    <button href="#"  className='btn btn-danger'>Browse Stickers</button>
   </div>
 </div>
       </div>
